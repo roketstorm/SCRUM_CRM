@@ -1,3 +1,15 @@
+################
+Scrum CRM Module
+################
+
+Application written in CodeIgniter based Scrum methodology. Can be used in custom CRM or any client-oriented systems.
+Written by Artur "RocketStorm" Shamsutdinov
+
+Framework: CodeIgniter 3.0.6
+UI: Bootstrap 3.3.6
+
+Under development
+
 ###################
 What is CodeIgniter
 ###################
