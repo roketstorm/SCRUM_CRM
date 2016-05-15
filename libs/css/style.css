@@ -1,0 +1,5 @@
+body {
+	background-image: url(../img/back.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+}
